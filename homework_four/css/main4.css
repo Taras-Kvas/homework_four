@@ -1,0 +1,38 @@
+.father {
+    background: silver;
+    width: 600px;
+    height: 500px;
+    text-align: center;
+}
+.header {
+    background: darkblue;
+    width: 600px;
+    height: 40px;
+    box-sizing: border-box;
+    border-bottom: 1px solid white;
+}
+.nav {
+    background: cornflowerblue;
+    width: 600px;
+    height: 40px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.main {
+    width: 400px;
+    height: 350px;
+    background: indigo;
+    margin-right: 1px;
+}
+.aside {
+    background: sienna;
+    width: 200px;
+    height: 350px;
+}
+.footer {
+    background: aqua;
+    width: 600px;
+    height: 70px;
+}

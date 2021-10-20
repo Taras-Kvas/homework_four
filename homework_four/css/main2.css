@@ -1,0 +1,33 @@
+.father {
+    background: olive;
+    width: 300px;
+}
+.header {
+    background: silver;
+    width: 300px;
+    height: 100px;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.menu {
+    margin-top: 10px;
+    margin-right: 5px;
+    background: orange;
+    width: 100px;
+    height: 150px;
+}
+.pst {
+    margin-top: 10px;
+    background: green;
+    width: 150px;
+    height: 70px;
+}
+.footer {
+    background: gray;
+    width: 300px;
+    height: 50px;
+}

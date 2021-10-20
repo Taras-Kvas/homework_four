@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.a {
+    background: blue;
+    width: 1000px;
+    height: 100px;
+}
+.container {
+    display: flex;
+}
+.b {
+    background: yellow;
+    width: 600px;
+    height: 600px;
+}
+.c {
+    background: red;
+    width: 400px;
+    height: 600px;
+}
